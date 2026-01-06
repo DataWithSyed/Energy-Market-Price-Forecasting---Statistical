@@ -13,7 +13,7 @@ The primary objective is to accurately anticipate short-term price movements in 
 
 ## Key Contributions & Technical Stack
 
-The project integrates end-to-end data science and engineering workflows:
+The project integrates data science and engineering workflows:
 
 1. Algorithmic Strategy Development: Designed and rigorously backtested algorithmic trading strategies for both spot and balancing markets, incorporating predictive analytics with real-time operational constraints.
 2. Data Pipeline and Analysis: Developed reliable data pipelines using industry-standard Python libraries for efficient Exploratory Data Analysis (EDA), feature engineering, visualization, and comprehensive model evaluation.
